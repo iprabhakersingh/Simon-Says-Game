@@ -1,4 +1,4 @@
-# 🎮 Simon Say's Game
+# 🎮 Simon Says Game
 
 A fun memory-based game built using **HTML**, **CSS**, and **JavaScript**.  
 The goal is simple: follow and repeat the sequence of colors that light up — but it gets harder with every round!
