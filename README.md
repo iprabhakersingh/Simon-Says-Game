@@ -42,5 +42,5 @@ The goal is simple: follow and repeat the sequence of colors that light up — b
 Clone the repo and run locally:
 
 ```bash
-git clone https://github.com/yourusername/simon-says-game.git
+git clone https://github.com/iprabhakersingh/Simon-Says-Game.git
 cd simon-says-game
